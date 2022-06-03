@@ -1,2 +1,2 @@
-pip freeze > requirements.txt
 Django==3.2.5
+pip list --format=freeze > requirements.txt
